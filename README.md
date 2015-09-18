@@ -18,9 +18,9 @@ Clone the repository locally and build it:
 
 ### Docker repository
 
-  https://hub.docker.com/r/meosch/localdevdrupal/
-
+  https://hub.docker.com/r/meosch/localdevdrupaldata/
 
 Get the image:
 
-  docker pull meosch/localdevdrupal
+  docker pull meosch/localdevdrupaldata
+  
