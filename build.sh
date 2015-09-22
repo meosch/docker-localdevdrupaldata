@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t meosch/localdevmysqldata .
+docker build -t meosch/localdevdrupaldata .
