@@ -1,3 +1,5 @@
+# This container image has been abandoned!  It is not maintained. The related project has transitioned to using a folder on the host OS to store MySQL data.
+
 # docker-localdevdrupaldata
 Data only container to work with the docker-localdevdrupal container. https://github.com/meosch/docker-localdevdrupal
 
